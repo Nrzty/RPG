@@ -1,5 +1,6 @@
 package com.rpg.rpg_api.service.personagem;
 
+import com.rpg.rpg_api.exception.personagem.PersonagemNaoEncontradoException;
 import com.rpg.rpg_api.factory.PersonagemFactory;
 import com.rpg.rpg_api.model.Personagem;
 import com.rpg.rpg_api.model.enums.Classe;
@@ -32,6 +33,6 @@ public class PersonagemServiceImpl implements PersonagemService {
 
     @Override
     public Personagem buscarOuFalhar(Long id) {
-        return personagemRepository.buscarPorId(id).orElseThrow(() -> new IllegalArgumentException("Personagem não encontrado!"));
+        return personagemRepository.buscarPorId(id).orElseThrow(() -> new PersonagemNaoEncontradoException(id));
     }
 }

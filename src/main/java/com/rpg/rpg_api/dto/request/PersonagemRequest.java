@@ -8,16 +8,15 @@ public class PersonagemRequest {
     @NotBlank(message = "O nome não pode estar em branco")
     private String nome;
 
-    @NotNull(message =  "Você deve escolher uma das classes disponíveis")
+    @NotNull(message = "Você deve escolher uma das classes disponíveis")
     private Classe classe;
 
     public String getNome() {
         return nome;
     }
 
-    public PersonagemRequest(String nome, Classe classe) {
-        this.nome = nome;
-        this.classe = classe;
+    public PersonagemRequest() {
+
     }
 
     public Classe getClasse() {

@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping("/personagem")
-class PersonagemController {
+@RequestMapping("/personagens")
+public class PersonagemController {
     private final PersonagemService personagemService;
 
     public PersonagemController(PersonagemService personagemService) {
@@ -25,12 +25,12 @@ class PersonagemController {
     }
 
     @GetMapping
-    public ResponseEntity<List<Personagem>> listarPersonaggens() {
-        return ResponseEntity.status(HttpStatus.OK).body(personagemService.listarTodos());
+    public ResponseEntity<List<Personagem>> listarPersonagens() {
+        return ResponseEntity.ok().body(personagemService.listarTodos());
     }
 
     @GetMapping("/{id}")
     public ResponseEntity<Personagem> buscarPersonagemPorId(@PathVariable Long id) {
-        return ResponseEntity.status(HttpStatus.OK).body(personagemService.buscarOuFalhar(id));
+        return ResponseEntity.ok().body(personagemService.buscarOuFalhar(id));
     }
 }
