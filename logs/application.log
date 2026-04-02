@@ -1,0 +1,766 @@
+2026-03-19T19:28:51.132-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T19:28:51.133-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T19:28:51.318-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T19:28:51.320-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T19:28:51.321-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T19:28:51.339-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 204 ms
+2026-03-19T19:28:51.428-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T19:28:51.430-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.388 seconds (process running for 9620.087)
+2026-03-19T19:28:51.430-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T19:29:28.261-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-03-19T19:29:28.262-03:00  INFO 25752 --- [biblioteca-api] [Thread-364] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T19:29:28.275-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T19:29:28.337-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T19:29:28.337-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T19:29:28.464-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T19:29:28.465-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T19:29:28.465-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T19:29:28.478-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 140 ms
+2026-03-19T19:29:28.532-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T19:29:28.534-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.218 seconds (process running for 9657.191)
+2026-03-19T19:29:28.534-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T19:30:05.360-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2026-03-19T19:30:05.361-03:00  INFO 25752 --- [biblioteca-api] [Thread-368] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T19:30:05.375-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T19:30:05.452-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T19:30:05.452-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T19:30:05.702-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T19:30:05.703-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T19:30:05.703-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T19:30:05.720-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 266 ms
+2026-03-19T19:30:05.788-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T19:30:05.789-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.363 seconds (process running for 9694.446)
+2026-03-19T19:30:05.790-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T19:30:07.228-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-03-19T19:30:07.229-03:00  INFO 25752 --- [biblioteca-api] [Thread-372] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T19:30:07.241-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T19:30:07.315-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T19:30:07.315-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T19:30:07.438-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T19:30:07.438-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T19:30:07.439-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T19:30:07.455-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 138 ms
+2026-03-19T19:30:07.510-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T19:30:07.511-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.221 seconds (process running for 9696.169)
+2026-03-19T19:30:07.511-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T19:31:53.009-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2026-03-19T19:31:53.010-03:00  INFO 25752 --- [biblioteca-api] [Thread-376] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T19:31:53.023-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T19:31:53.086-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T19:31:53.086-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T19:31:53.250-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T19:31:53.251-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T19:31:53.251-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T19:31:53.265-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 177 ms
+2026-03-19T19:31:53.330-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T19:31:53.331-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.265 seconds (process running for 9801.989)
+2026-03-19T19:31:53.332-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T19:31:54.747-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-03-19T19:31:54.748-03:00  INFO 25752 --- [biblioteca-api] [Thread-380] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T19:31:54.761-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T19:31:54.820-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T19:31:54.820-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T19:31:54.935-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T19:31:54.937-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T19:31:54.937-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T19:31:54.949-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 127 ms
+2026-03-19T19:31:55.003-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T19:31:55.004-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.201 seconds (process running for 9803.661)
+2026-03-19T19:31:55.004-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T19:32:49.025-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-03-19T19:32:49.026-03:00  INFO 25752 --- [biblioteca-api] [Thread-384] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T19:32:49.038-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T19:32:49.099-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T19:32:49.100-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T19:32:49.254-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T19:32:49.255-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T19:32:49.255-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T19:32:49.272-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 171 ms
+2026-03-19T19:32:49.330-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T19:32:49.331-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.251 seconds (process running for 9857.988)
+2026-03-19T19:32:49.332-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T19:33:03.927-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2026-03-19T19:33:03.928-03:00  INFO 25752 --- [biblioteca-api] [Thread-388] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T19:33:03.940-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T19:33:04.004-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T19:33:04.004-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T19:33:04.168-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T19:33:04.169-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T19:33:04.169-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T19:33:04.186-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 180 ms
+2026-03-19T19:33:04.266-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T19:33:04.267-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.282 seconds (process running for 9872.924)
+2026-03-19T19:33:04.268-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T19:33:05.685-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-03-19T19:33:05.686-03:00  INFO 25752 --- [biblioteca-api] [Thread-392] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T19:33:05.699-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T19:33:05.757-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T19:33:05.757-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T19:33:05.877-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T19:33:05.878-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T19:33:05.878-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T19:33:05.892-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 133 ms
+2026-03-19T19:33:05.948-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T19:33:05.949-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.21 seconds (process running for 9874.606)
+2026-03-19T19:33:05.950-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T19:35:55.807-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-03-19T19:35:55.808-03:00  INFO 25752 --- [biblioteca-api] [Thread-396] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T19:35:55.820-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T19:35:55.891-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T19:35:55.891-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T19:35:56.048-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T19:35:56.049-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T19:35:56.049-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T19:35:56.068-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 175 ms
+2026-03-19T19:35:56.154-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T19:35:56.156-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.288 seconds (process running for 10044.813)
+2026-03-19T19:35:56.157-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T19:36:29.375-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-03-19T19:36:29.376-03:00  INFO 25752 --- [biblioteca-api] [Thread-400] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T19:36:29.389-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T19:36:29.455-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T19:36:29.455-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T19:36:29.600-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T19:36:29.601-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T19:36:29.601-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T19:36:29.616-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 159 ms
+2026-03-19T19:36:29.671-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T19:36:29.672-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.24 seconds (process running for 10078.33)
+2026-03-19T19:36:29.673-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T19:37:33.033-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2026-03-19T19:37:33.034-03:00  INFO 25752 --- [biblioteca-api] [Thread-404] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T19:37:33.047-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T19:37:33.128-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T19:37:33.129-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T19:37:33.373-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T19:37:33.374-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T19:37:33.374-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T19:37:33.398-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 266 ms
+2026-03-19T19:37:33.528-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T19:37:33.531-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.43 seconds (process running for 10142.188)
+2026-03-19T19:37:33.532-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T19:37:34.971-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-03-19T19:37:34.973-03:00  INFO 25752 --- [biblioteca-api] [Thread-408] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T19:37:34.987-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T19:37:35.067-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T19:37:35.067-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T19:37:35.245-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T19:37:35.246-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T19:37:35.246-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T19:37:35.264-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 195 ms
+2026-03-19T19:37:35.338-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T19:37:35.340-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.302 seconds (process running for 10143.997)
+2026-03-19T19:37:35.340-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T19:38:57.881-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-03-19T19:38:57.881-03:00  INFO 25752 --- [biblioteca-api] [Thread-412] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T19:38:57.895-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T19:38:57.946-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T19:38:57.946-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T19:38:58.108-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T19:38:58.109-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T19:38:58.109-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T19:38:58.124-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 176 ms
+2026-03-19T19:38:58.191-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T19:38:58.192-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.264 seconds (process running for 10226.849)
+2026-03-19T19:38:58.193-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T19:40:19.598-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-03-19T19:40:19.599-03:00  INFO 25752 --- [biblioteca-api] [Thread-416] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T19:40:19.614-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T19:40:19.683-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T19:40:19.683-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T19:40:19.875-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T19:40:19.878-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T19:40:19.878-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T19:40:19.894-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 208 ms
+2026-03-19T19:40:19.985-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T19:40:19.986-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.329 seconds (process running for 10308.644)
+2026-03-19T19:40:19.987-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T19:44:22.801-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2026-03-19T19:44:22.802-03:00  INFO 25752 --- [biblioteca-api] [Thread-420] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T19:44:22.816-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T19:44:22.900-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T19:44:22.900-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T19:44:23.083-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T19:44:23.085-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T19:44:23.086-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T19:44:23.103-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 199 ms
+2026-03-19T19:44:23.205-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T19:44:23.206-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.333 seconds (process running for 10551.864)
+2026-03-19T19:44:23.207-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T19:44:24.649-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-03-19T19:44:24.650-03:00  INFO 25752 --- [biblioteca-api] [Thread-424] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T19:44:24.661-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T19:44:24.719-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T19:44:24.720-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T19:44:24.842-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T19:44:24.842-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T19:44:24.842-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T19:44:24.857-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 136 ms
+2026-03-19T19:44:24.914-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T19:44:24.916-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.214 seconds (process running for 10553.573)
+2026-03-19T19:44:24.916-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T19:44:48.776-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2026-03-19T19:44:48.777-03:00  INFO 25752 --- [biblioteca-api] [Thread-428] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T19:44:48.791-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T19:44:48.867-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T19:44:48.867-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T19:44:49.088-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T19:44:49.088-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T19:44:49.089-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T19:44:49.111-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 242 ms
+2026-03-19T19:44:49.221-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T19:44:49.223-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.383 seconds (process running for 10577.88)
+2026-03-19T19:44:49.224-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T19:44:50.667-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-03-19T19:44:50.668-03:00  INFO 25752 --- [biblioteca-api] [Thread-432] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T19:44:50.682-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T19:44:50.742-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T19:44:50.743-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T19:44:50.867-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T19:44:50.868-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T19:44:50.868-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T19:44:50.882-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 137 ms
+2026-03-19T19:44:50.938-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T19:44:50.939-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.214 seconds (process running for 10579.596)
+2026-03-19T19:44:50.940-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T19:45:55.389-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2026-03-19T19:45:55.389-03:00  INFO 25752 --- [biblioteca-api] [Thread-436] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T19:45:55.402-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T19:45:55.471-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T19:45:55.471-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T19:45:55.684-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T19:45:55.684-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T19:45:55.685-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T19:45:55.707-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 230 ms
+2026-03-19T19:45:55.797-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T19:45:55.798-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.348 seconds (process running for 10644.455)
+2026-03-19T19:45:55.798-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T19:45:57.243-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-03-19T19:45:57.244-03:00  INFO 25752 --- [biblioteca-api] [Thread-440] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T19:45:57.258-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T19:45:57.322-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T19:45:57.322-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T19:45:57.476-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T19:45:57.477-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T19:45:57.477-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T19:45:57.491-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 166 ms
+2026-03-19T19:45:57.557-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T19:45:57.558-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.255 seconds (process running for 10646.216)
+2026-03-19T19:45:57.559-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T19:46:29.761-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-03-19T19:46:29.762-03:00  INFO 25752 --- [biblioteca-api] [Thread-444] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T19:46:29.774-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T19:46:29.829-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T19:46:29.829-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T19:46:30.070-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T19:46:30.071-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T19:46:30.071-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T19:46:30.096-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 265 ms
+2026-03-19T19:46:30.191-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T19:46:30.193-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.386 seconds (process running for 10678.85)
+2026-03-19T19:46:30.194-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T19:47:40.086-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-03-19T19:47:40.086-03:00  INFO 25752 --- [biblioteca-api] [Thread-448] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T19:47:40.099-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T19:47:40.162-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T19:47:40.162-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T19:47:40.330-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T19:47:40.331-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T19:47:40.331-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T19:47:40.348-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 183 ms
+2026-03-19T19:47:40.412-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T19:47:40.414-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.273 seconds (process running for 10749.07)
+2026-03-19T19:47:40.414-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T19:49:01.435-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-03-19T19:49:01.436-03:00  INFO 25752 --- [biblioteca-api] [Thread-452] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T19:49:01.449-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T19:49:01.513-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T19:49:01.513-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T19:49:01.697-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T19:49:01.699-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T19:49:01.699-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T19:49:01.718-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 203 ms
+2026-03-19T19:49:01.823-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T19:49:01.825-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.333 seconds (process running for 10830.482)
+2026-03-19T19:49:01.826-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T19:50:20.660-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-03-19T19:50:20.661-03:00  INFO 25752 --- [biblioteca-api] [Thread-456] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T19:50:20.674-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T19:50:20.734-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T19:50:20.734-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T19:50:20.900-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T19:50:20.900-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T19:50:20.900-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T19:50:20.917-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 181 ms
+2026-03-19T19:50:20.977-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T19:50:20.978-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.263 seconds (process running for 10909.635)
+2026-03-19T19:50:20.979-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T19:52:20.565-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2026-03-19T19:52:20.566-03:00  INFO 25752 --- [biblioteca-api] [Thread-460] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T19:52:20.579-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T19:52:20.643-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T19:52:20.643-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T19:52:20.781-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T19:52:20.782-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T19:52:20.782-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T19:52:20.798-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 153 ms
+2026-03-19T19:52:20.858-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T19:52:20.859-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.234 seconds (process running for 11029.517)
+2026-03-19T19:52:20.860-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T19:58:16.999-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-03-19T19:58:17.000-03:00  INFO 25752 --- [biblioteca-api] [Thread-464] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T19:58:17.013-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T19:58:17.093-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T19:58:17.094-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T19:58:17.415-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T19:58:17.417-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T19:58:17.417-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T19:58:17.433-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 337 ms
+2026-03-19T19:58:17.521-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T19:58:17.524-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.461 seconds (process running for 11386.18)
+2026-03-19T19:58:17.524-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T19:59:21.252-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-03-19T19:59:21.253-03:00  INFO 25752 --- [biblioteca-api] [Thread-468] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T19:59:21.265-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T19:59:21.328-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T19:59:21.329-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T19:59:21.486-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T19:59:21.487-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T19:59:21.487-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T19:59:21.503-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 173 ms
+2026-03-19T19:59:21.571-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T19:59:21.572-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.263 seconds (process running for 11450.23)
+2026-03-19T19:59:21.573-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T20:01:15.379-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2026-03-19T20:01:15.380-03:00  INFO 25752 --- [biblioteca-api] [Thread-472] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T20:01:15.393-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T20:01:15.490-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T20:01:15.490-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T20:01:15.702-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T20:01:15.702-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T20:01:15.703-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T20:01:15.718-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 224 ms
+2026-03-19T20:01:15.799-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T20:01:15.801-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.349 seconds (process running for 11564.458)
+2026-03-19T20:01:15.802-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T20:01:17.243-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-03-19T20:01:17.244-03:00  INFO 25752 --- [biblioteca-api] [Thread-476] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T20:01:17.257-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T20:01:17.316-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T20:01:17.316-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T20:01:17.442-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T20:01:17.442-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T20:01:17.442-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T20:01:17.457-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 140 ms
+2026-03-19T20:01:17.513-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T20:01:17.514-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.215 seconds (process running for 11566.171)
+2026-03-19T20:01:17.515-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T20:02:28.883-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2026-03-19T20:02:28.884-03:00  INFO 25752 --- [biblioteca-api] [Thread-480] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T20:02:28.896-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T20:02:28.958-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T20:02:28.959-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T20:02:29.115-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T20:02:29.115-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T20:02:29.115-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T20:02:29.131-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 170 ms
+2026-03-19T20:02:29.195-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T20:02:29.197-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.258 seconds (process running for 11637.854)
+2026-03-19T20:02:29.197-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T20:08:25.592-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-03-19T20:08:25.592-03:00  INFO 25752 --- [biblioteca-api] [Thread-484] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T20:08:25.605-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T20:08:25.667-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T20:08:25.668-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T20:08:25.819-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T20:08:25.820-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T20:08:25.820-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T20:08:25.835-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 165 ms
+2026-03-19T20:08:25.914-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T20:08:25.916-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.27 seconds (process running for 11994.573)
+2026-03-19T20:08:25.917-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T20:08:47.717-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2026-03-19T20:08:47.718-03:00  INFO 25752 --- [biblioteca-api] [Thread-488] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T20:08:47.731-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T20:08:47.816-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T20:08:47.816-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T20:08:47.981-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T20:08:47.981-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T20:08:47.981-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T20:08:47.996-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 178 ms
+2026-03-19T20:08:48.058-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T20:08:48.059-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.271 seconds (process running for 12016.716)
+2026-03-19T20:08:48.060-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T20:08:49.497-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-03-19T20:08:49.498-03:00  INFO 25752 --- [biblioteca-api] [Thread-492] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T20:08:49.511-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T20:08:49.574-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T20:08:49.576-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T20:08:49.695-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T20:08:49.695-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T20:08:49.695-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T20:08:49.709-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 132 ms
+2026-03-19T20:08:49.763-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T20:08:49.765-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.209 seconds (process running for 12018.422)
+2026-03-19T20:08:49.765-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T20:09:43.332-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-03-19T20:09:43.333-03:00  INFO 25752 --- [biblioteca-api] [Thread-496] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T20:09:43.345-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T20:09:43.426-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T20:09:43.426-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T20:09:43.679-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T20:09:43.680-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T20:09:43.680-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T20:09:43.699-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 271 ms
+2026-03-19T20:09:43.805-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T20:09:43.806-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.406 seconds (process running for 12072.464)
+2026-03-19T20:09:43.807-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T20:10:00.538-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2026-03-19T20:10:00.538-03:00  INFO 25752 --- [biblioteca-api] [Thread-500] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T20:10:00.552-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T20:10:00.645-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T20:10:00.645-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T20:10:00.832-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T20:10:00.832-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T20:10:00.832-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T20:10:00.856-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 209 ms
+2026-03-19T20:10:00.945-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T20:10:00.946-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.336 seconds (process running for 12089.603)
+2026-03-19T20:10:00.948-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T20:10:02.382-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-03-19T20:10:02.383-03:00  INFO 25752 --- [biblioteca-api] [Thread-504] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T20:10:02.397-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T20:10:02.466-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T20:10:02.466-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T20:10:02.607-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T20:10:02.610-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T20:10:02.610-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T20:10:02.628-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 159 ms
+2026-03-19T20:10:02.693-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T20:10:02.694-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.255 seconds (process running for 12091.351)
+2026-03-19T20:10:02.695-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T20:14:22.974-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2026-03-19T20:14:22.976-03:00  INFO 25752 --- [biblioteca-api] [Thread-508] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T20:14:22.989-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T20:14:23.072-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T20:14:23.073-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T20:14:23.306-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T20:14:23.306-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T20:14:23.307-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T20:14:23.329-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 255 ms
+2026-03-19T20:14:23.443-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T20:14:23.445-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.4 seconds (process running for 12352.102)
+2026-03-19T20:14:23.446-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T20:14:24.877-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-03-19T20:14:24.879-03:00  INFO 25752 --- [biblioteca-api] [Thread-512] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T20:14:24.895-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T20:14:24.982-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T20:14:24.982-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T20:14:25.134-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T20:14:25.134-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T20:14:25.134-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T20:14:25.149-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 165 ms
+2026-03-19T20:14:25.209-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T20:14:25.210-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.251 seconds (process running for 12353.867)
+2026-03-19T20:14:25.210-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T20:19:11.502-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2026-03-19T20:19:11.504-03:00  INFO 25752 --- [biblioteca-api] [Thread-516] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T20:19:11.520-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T20:19:11.594-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T20:19:11.595-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T20:19:11.824-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T20:19:11.824-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T20:19:11.824-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T20:19:11.844-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 245 ms
+2026-03-19T20:19:11.936-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T20:19:11.938-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.372 seconds (process running for 12640.595)
+2026-03-19T20:19:11.939-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T20:19:13.351-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-03-19T20:19:13.353-03:00  INFO 25752 --- [biblioteca-api] [Thread-520] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T20:19:13.364-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T20:19:13.444-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T20:19:13.444-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T20:19:13.612-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T20:19:13.612-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T20:19:13.612-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T20:19:13.628-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 182 ms
+2026-03-19T20:19:13.686-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T20:19:13.687-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.269 seconds (process running for 12642.344)
+2026-03-19T20:19:13.688-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T20:19:48.503-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 3 class path changes (0 additions, 3 deletions, 0 modifications)
+2026-03-19T20:19:48.505-03:00  INFO 25752 --- [biblioteca-api] [Thread-524] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T20:19:48.518-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T20:19:48.674-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T20:19:48.674-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T20:19:48.970-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T20:19:48.971-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T20:19:48.971-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T20:19:48.994-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 314 ms
+2026-03-19T20:19:49.011-03:00  WARN 25752 --- [biblioteca-api] [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'batalhaRepositoryImpl': Lookup method resolution failed
+2026-03-19T20:19:49.011-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2026-03-19T20:19:49.013-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2026-03-19T20:19:49.017-03:00 ERROR 25752 --- [biblioteca-api] [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'batalhaRepositoryImpl': Lookup method resolution failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.checkLookupMethods(AutowiredAnnotationBeanPostProcessor.java:482) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.determineCandidateConstructors(AutowiredAnnotationBeanPostProcessor.java:352) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineConstructorsFromBeanPostProcessors(AbstractAutowireCapableBeanFactory.java:1321) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1218) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:565) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:525) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:333) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:371) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:331) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:196) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1218) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1184) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1121) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:994) ~[spring-context-7.0.5.jar:7.0.5]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:621) ~[spring-context-7.0.5.jar:7.0.5]
+	at org.springframework.boot.web.server.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143) ~[spring-boot-web-server-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:756) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:445) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:321) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1365) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354) ~[spring-boot-4.0.3.jar:4.0.3]
+	at com.rpg.rpg_api.Application.main(Application.java:10) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:52) ~[spring-boot-devtools-4.0.3.jar:4.0.3]
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [com.rpg.rpg_api.repository.batalha.BatalhaRepositoryImpl] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@42426de4]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:483) ~[spring-core-7.0.5.jar:7.0.5]
+	at org.springframework.util.ReflectionUtils.doWithLocalMethods(ReflectionUtils.java:320) ~[spring-core-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.checkLookupMethods(AutowiredAnnotationBeanPostProcessor.java:460) ~[spring-beans-7.0.5.jar:7.0.5]
+	... 24 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: com/rpg/rpg_api/model/Batalha
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method) ~[na:na]
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3010) ~[na:na]
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2329) ~[na:na]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:465) ~[spring-core-7.0.5.jar:7.0.5]
+	... 26 common frames omitted
+Caused by: java.lang.ClassNotFoundException: com.rpg.rpg_api.model.Batalha
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:580) ~[na:na]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490) ~[na:na]
+	at java.base/java.lang.Class.forName0(Native Method) ~[na:na]
+	at java.base/java.lang.Class.forName(Class.java:547) ~[na:na]
+	at org.springframework.boot.devtools.restart.classloader.RestartClassLoader.loadClass(RestartClassLoader.java:123) ~[spring-boot-devtools-4.0.3.jar:4.0.3]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490) ~[na:na]
+	... 30 common frames omitted
+
+2026-03-19T20:21:01.219-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T20:21:01.219-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T20:21:01.381-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T20:21:01.381-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T20:21:01.381-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T20:21:01.394-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 173 ms
+2026-03-19T20:21:01.459-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T20:21:01.460-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.256 seconds (process running for 12750.117)
+2026-03-19T20:21:01.461-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T20:23:42.600-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2026-03-19T20:23:42.602-03:00  INFO 25752 --- [biblioteca-api] [Thread-528] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T20:23:42.615-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T20:23:42.707-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T20:23:42.707-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T20:23:42.993-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T20:23:42.995-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T20:23:42.996-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T20:23:43.012-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 301 ms
+2026-03-19T20:23:43.119-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T20:23:43.121-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.446 seconds (process running for 12911.778)
+2026-03-19T20:23:43.121-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T20:23:44.561-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-03-19T20:23:44.562-03:00  INFO 25752 --- [biblioteca-api] [Thread-535] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T20:23:44.576-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T20:23:44.646-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T20:23:44.646-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T20:23:44.798-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T20:23:44.798-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T20:23:44.799-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T20:23:44.814-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 166 ms
+2026-03-19T20:23:44.872-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T20:23:44.873-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.247 seconds (process running for 12913.53)
+2026-03-19T20:23:44.874-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T20:25:58.222-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2026-03-19T20:25:58.223-03:00  INFO 25752 --- [biblioteca-api] [Thread-539] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T20:25:58.236-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T20:25:58.311-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T20:25:58.311-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T20:25:58.455-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T20:25:58.456-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T20:25:58.456-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T20:25:58.474-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 161 ms
+2026-03-19T20:25:58.554-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T20:25:58.555-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.265 seconds (process running for 13047.212)
+2026-03-19T20:25:58.556-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T20:26:00.001-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-03-19T20:26:00.002-03:00  INFO 25752 --- [biblioteca-api] [Thread-543] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T20:26:00.014-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T20:26:00.079-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T20:26:00.079-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T20:26:00.229-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T20:26:00.229-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T20:26:00.229-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T20:26:00.247-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 166 ms
+2026-03-19T20:26:00.324-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T20:26:00.325-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.263 seconds (process running for 13048.982)
+2026-03-19T20:26:00.326-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T20:26:57.344-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2026-03-19T20:26:57.346-03:00  INFO 25752 --- [biblioteca-api] [Thread-547] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T20:26:57.360-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T20:26:57.423-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T20:26:57.423-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T20:26:57.611-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T20:26:57.611-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T20:26:57.611-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T20:26:57.630-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 207 ms
+2026-03-19T20:26:57.705-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T20:26:57.706-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.305 seconds (process running for 13106.364)
+2026-03-19T20:26:57.708-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T20:26:59.161-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-03-19T20:26:59.162-03:00  INFO 25752 --- [biblioteca-api] [Thread-551] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T20:26:59.175-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T20:26:59.245-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T20:26:59.245-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T20:26:59.384-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T20:26:59.385-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T20:26:59.385-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T20:26:59.399-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 153 ms
+2026-03-19T20:26:59.455-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T20:26:59.457-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.235 seconds (process running for 13108.114)
+2026-03-19T20:26:59.457-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T20:32:13.327-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2026-03-19T20:32:13.328-03:00  INFO 25752 --- [biblioteca-api] [Thread-555] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T20:32:13.341-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T20:32:13.419-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T20:32:13.420-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T20:32:13.673-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T20:32:13.675-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T20:32:13.676-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T20:32:13.693-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 271 ms
+2026-03-19T20:32:13.801-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T20:32:13.801-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.411 seconds (process running for 13422.459)
+2026-03-19T20:32:13.803-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T20:34:32.813-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-03-19T20:34:32.813-03:00  INFO 25752 --- [biblioteca-api] [Thread-559] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T20:34:32.826-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T20:34:32.886-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T20:34:32.886-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T20:34:33.016-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T20:34:33.016-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T20:34:33.016-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T20:34:33.031-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 143 ms
+2026-03-19T20:34:33.085-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T20:34:33.085-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.216 seconds (process running for 13561.743)
+2026-03-19T20:34:33.087-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T20:34:58.857-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2026-03-19T20:34:58.859-03:00  INFO 25752 --- [biblioteca-api] [Thread-563] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T20:34:58.871-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T20:34:58.955-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T20:34:58.956-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T20:34:59.096-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T20:34:59.097-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T20:34:59.097-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T20:34:59.114-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 155 ms
+2026-03-19T20:34:59.196-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T20:34:59.199-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.27 seconds (process running for 13587.856)
+2026-03-19T20:34:59.199-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T20:35:00.640-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-03-19T20:35:00.641-03:00  INFO 25752 --- [biblioteca-api] [Thread-567] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T20:35:00.654-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T20:35:00.724-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T20:35:00.724-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T20:35:00.845-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T20:35:00.846-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T20:35:00.846-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T20:35:00.862-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 136 ms
+2026-03-19T20:35:00.915-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T20:35:00.916-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.214 seconds (process running for 13589.573)
+2026-03-19T20:35:00.917-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T20:35:43.193-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2026-03-19T20:35:43.194-03:00  INFO 25752 --- [biblioteca-api] [Thread-571] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T20:35:43.207-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T20:35:43.276-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T20:35:43.276-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T20:35:43.442-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T20:35:43.443-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T20:35:43.443-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T20:35:43.458-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 180 ms
+2026-03-19T20:35:43.524-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T20:35:43.526-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.267 seconds (process running for 13632.183)
+2026-03-19T20:35:43.526-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T20:38:50.934-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-03-19T20:38:50.935-03:00  INFO 25752 --- [biblioteca-api] [Thread-575] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T20:38:50.948-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T20:38:51.034-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T20:38:51.035-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T20:38:51.252-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T20:38:51.254-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T20:38:51.254-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T20:38:51.273-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 235 ms
+2026-03-19T20:38:51.377-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T20:38:51.378-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.377 seconds (process running for 13820.035)
+2026-03-19T20:38:51.379-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T20:39:19.304-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-03-19T20:39:19.305-03:00  INFO 25752 --- [biblioteca-api] [Thread-579] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T20:39:19.317-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T20:39:19.404-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T20:39:19.404-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T20:39:19.610-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T20:39:19.611-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T20:39:19.611-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T20:39:19.631-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 225 ms
+2026-03-19T20:39:19.692-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T20:39:19.693-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.317 seconds (process running for 13848.35)
+2026-03-19T20:39:19.694-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T20:39:45.410-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2026-03-19T20:39:45.411-03:00  INFO 25752 --- [biblioteca-api] [Thread-583] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T20:39:45.423-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T20:39:45.501-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T20:39:45.501-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T20:39:45.702-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T20:39:45.704-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T20:39:45.704-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T20:39:45.733-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 230 ms
+2026-03-19T20:39:45.842-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T20:39:45.844-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.369 seconds (process running for 13874.501)
+2026-03-19T20:39:45.845-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T20:39:47.255-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-03-19T20:39:47.255-03:00  INFO 25752 --- [biblioteca-api] [Thread-587] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T20:39:47.269-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T20:39:47.332-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T20:39:47.332-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T20:39:47.459-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T20:39:47.459-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T20:39:47.459-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T20:39:47.472-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 139 ms
+2026-03-19T20:39:47.526-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T20:39:47.527-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.212 seconds (process running for 13876.184)
+2026-03-19T20:39:47.528-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T20:39:51.003-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2026-03-19T20:39:51.003-03:00  INFO 25752 --- [biblioteca-api] [Thread-591] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T20:39:51.019-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T20:39:51.089-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T20:39:51.089-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T20:39:51.248-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T20:39:51.249-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T20:39:51.249-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T20:39:51.272-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 183 ms
+2026-03-19T20:39:51.365-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T20:39:51.366-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.297 seconds (process running for 13880.024)
+2026-03-19T20:39:51.367-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T20:39:52.820-03:00  INFO 25752 --- [biblioteca-api] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-03-19T20:39:52.822-03:00  INFO 25752 --- [biblioteca-api] [Thread-595] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T20:39:52.835-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-19T20:39:52.911-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Starting Application using Java 25.0.2 with PID 25752 (C:\Users\Silvi\IdeaProjects\rpg-api\target\classes started by Silvi in C:\Users\Silvi\IdeaProjects\rpg-api)
+2026-03-19T20:39:52.911-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : No active profile set, falling back to 1 default profile: "default"
+2026-03-19T20:39:53.080-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8069 (http)
+2026-03-19T20:39:53.081-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-19T20:39:53.081-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-19T20:39:53.094-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 181 ms
+2026-03-19T20:39:53.150-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8069 (http) with context path '/'
+2026-03-19T20:39:53.151-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] com.rpg.rpg_api.Application              : Started Application in 0.263 seconds (process running for 13881.808)
+2026-03-19T20:39:53.151-03:00  INFO 25752 --- [biblioteca-api] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-03-19T20:43:02.618-03:00  INFO 25752 --- [biblioteca-api] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-19T20:43:02.630-03:00  INFO 25752 --- [biblioteca-api] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete

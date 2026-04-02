@@ -26,6 +26,16 @@ public class Personagem {
     private Personagem() {
     }
 
+    public void receberDano(int dano){
+        int danoEfetivo = Math.max(0, dano);
+        this.vida -= danoEfetivo;
+
+        if (this.vida <= 0) {
+            this.vida = 0;
+            this.status = Status.MORTO;
+        }
+    }
+
     public Long getId() {
         return id;
     }

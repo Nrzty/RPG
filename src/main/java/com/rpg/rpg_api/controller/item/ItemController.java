@@ -5,15 +5,15 @@ import com.rpg.rpg_api.model.Item;
 import com.rpg.rpg_api.model.enums.item.RaridadeItem;
 import com.rpg.rpg_api.service.item.ItemService;
 import jakarta.validation.Valid;
+import java.util.List;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.List;
-
 @RestController
 @RequestMapping("/itens")
 public class ItemController {
+
     private final ItemService itemService;
 
     public ItemController(ItemService itemService) {
@@ -21,8 +21,12 @@ public class ItemController {
     }
 
     @PostMapping
-    public ResponseEntity<Item> criarItem(@RequestBody @Valid ItemRequest itemRequest) {
-        return ResponseEntity.status(HttpStatus.CREATED).body(itemService.criar(itemRequest));
+    public ResponseEntity<Item> criarItem(
+        @RequestBody @Valid ItemRequest itemRequest
+    ) {
+        return ResponseEntity.status(HttpStatus.CREATED).body(
+            itemService.criar(itemRequest)
+        );
     }
 
     @GetMapping
@@ -36,7 +40,11 @@ public class ItemController {
     }
 
     @GetMapping("/filtrar")
-    public ResponseEntity<List<Item>> filtrarPorRaridade(@RequestParam RaridadeItem raridadeItem) {
-        return ResponseEntity.ok().body(itemService.filtrarPorRaridade(raridadeItem));
+    public ResponseEntity<List<Item>> filtrarPorRaridade(
+        @RequestParam RaridadeItem raridadeItem
+    ) {
+        return ResponseEntity.ok().body(
+            itemService.filtrarPorRaridade(raridadeItem)
+        );
     }
 }
